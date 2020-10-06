@@ -93,3 +93,5 @@ D:\Software\Microsoft Visual Studio\source\repos\AzureDemo\bin\Debug\netcoreapp3
 D:\Software\Microsoft Visual Studio\source\repos\AzureDemo\bin\Debug\netcoreapp3.1\AzureDemo.pdb
 D:\Software\Microsoft Visual Studio\source\repos\AzureDemo\obj\Debug\netcoreapp3.1\AzureDemo.dll
 D:\Software\Microsoft Visual Studio\source\repos\AzureDemo\obj\Debug\netcoreapp3.1\AzureDemo.pdb
+D:\Software\Microsoft Visual Studio\source\repos\AzureDemo\bin\Debug\netcoreapp3.1\testhost.exe
+D:\Software\Microsoft Visual Studio\source\repos\AzureDemo\obj\Debug\netcoreapp3.1\AzureDemo.csproj.CoreCompileInputs.cache
